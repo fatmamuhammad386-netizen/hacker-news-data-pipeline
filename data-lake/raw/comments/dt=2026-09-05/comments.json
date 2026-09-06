@@ -1,0 +1,416 @@
+[
+  {
+    "by": "__rito__",
+    "id": 49583877,
+    "parent": 49578280,
+    "text": "This is the best OCaml resource I know, and I have gone through it in full, and highly recommend: OCaml Programming: Correct + Efficient + Beautiful [0]<p>It is one of the best <i>programming</i> resources that I know of.<p>[0]: <a href=\"https:&#x2F;&#x2F;cs3110.github.io&#x2F;textbook&#x2F;cover.html\" rel=\"nofollow\">https:&#x2F;&#x2F;cs3110.github.io&#x2F;textbook&#x2F;cover.html</a>",
+    "time": 1788676298,
+    "type": "comment"
+  },
+  {
+    "by": "bryanrasmussen",
+    "id": 49583876,
+    "parent": 49583237,
+    "text": "The first is of course from the King James Bible which for centuries was essentially a standard that all English speaking peoples aspired to. If you find that version difficult I would expect much literary writing before the 1940s also seems difficult. This is just to say I recommend reading the King James even if you are an atheist, as I am.<p>I also have to say that the first strikes me as being written by someone that might be smarter than I am, the second as being written by someone significantly less intelligent than I, yet somehow placed by society in a position of authority above me.",
+    "time": 1788676293,
+    "type": "comment"
+  },
+  {
+    "by": "jaynetics",
+    "id": 49583875,
+    "parent": 49583330,
+    "text": "&gt; maybe in the future we need to all be more concious about leaving LLM-tells out of our writing.<p>I expect the gruesome writing style of LLMs to be fixed relatively soon, seeing how it can already be prevented with just a few lines of stylistic instructions.<p>I just wonder: how long will it take us then, after the fix, to not be thrown off every time we see some unnecessary catchy or contrastive phrasing?<p>Being traumatized by poor writing was not on my bingo card for 21st century technological progress ...",
+    "time": 1788676245,
+    "type": "comment"
+  },
+  {
+    "by": "AngryData",
+    "id": 49583874,
+    "parent": 49581394,
+    "text": "No, but the majority of people would be fine with killing other types of mass murderers.",
+    "time": 1788676237,
+    "type": "comment"
+  },
+  {
+    "by": "onion2k",
+    "id": 49583873,
+    "parent": 49583837,
+    "text": "If it&#x27;s truly trivial to build a clone then people will just build their own apps to use themselves. In a couple of years regardless of how good your network it won&#x27;t be possible to launch a successful SaaS app is unless it has a <i>real</i> moat. Distribution and network won&#x27;t help, because you&#x27;ll be competing with people prompting for a bespoke app that runs locally for free.",
+    "time": 1788676229,
+    "type": "comment"
+  },
+  {
+    "by": "gosub100",
+    "id": 49583872,
+    "parent": 49576460,
+    "text": "And just like welfare bucks, people will quickly grow accustomed to getting their &quot;intelligence&quot; handed to them from the machine, while their own intelligence atrophies. Breeding dependency",
+    "time": 1788676189,
+    "type": "comment"
+  },
+  {
+    "by": "suqingfu",
+    "dead": true,
+    "id": 49583871,
+    "parent": 49581870,
+    "text": "[flagged]",
+    "time": 1788676171,
+    "type": "comment"
+  },
+  {
+    "by": "fodkodrasz",
+    "id": 49583870,
+    "parent": 49539759,
+    "text": "I wonder how NetBSD would work with the hardware, if the mentioned bugs were already fixed there maybe?<p>NetBSD has wide old&#x2F;obscure platform, with a wider community using it somewhat more actively on those.",
+    "time": 1788676169,
+    "type": "comment"
+  },
+  {
+    "by": "jey",
+    "id": 49583869,
+    "parent": 49583853,
+    "text": "Ok great, now I&#x27;m in the market for a $20k Barbieri LFP auto-spectrophotometer. Thanks.",
+    "time": 1788676127,
+    "type": "comment"
+  },
+  {
+    "by": "cheema33",
+    "id": 49583868,
+    "parent": 49583694,
+    "text": "selfprivacy appears to be limited to a handful of services. e.g. It is not clear to me if I can host postgresql with it. i.e. It is not a general purpose container hosting product.",
+    "time": 1788676124,
+    "type": "comment"
+  },
+  {
+    "by": "grey-area",
+    "id": 49583867,
+    "parent": 49579523,
+    "text": "So this justifies the illegal action of hacking and defacing other servers on the internet, because they were ‘just testing in real world conditions’ using those servers?<p>If you want to argue they should test on the internet on others people’s servers, apart from facing the illegality, you should also consider if first testing them in more limited conditions would be a sensible first step.",
+    "time": 1788676112,
+    "type": "comment"
+  },
+  {
+    "by": "buckwheat8848",
+    "id": 49583866,
+    "parent": 49522896,
+    "text": "Location: Kathmandu, Nepal (UTC+5:45)<p>Remote: Yes, worldwide. 4-5 hours of overlap with Europe, US East mornings.<p>Willing to relocate: No<p>Technologies: TypeScript&#x2F;Node (NestJS, Next.js, SvelteKit, React), Python (FastAPI), PostgreSQL, Redis, Docker, Kubernetes on GCP, GitHub Actions, AWS, Azure, Cloudflare. LLM work in production for the last two years: retrieval over pgvector, multi-agent workflows, eval harnesses, voice AI.<p>Résumé&#x2F;CV: on request by email. Code: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;kafle1\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kafle1</a><p>Email: kafleniraj@gmail.com<p>Five years full stack, strongest on the backend. Right now I am the engineer who builds and runs the services at a small US company: NestJS APIs on Postgres, the Next.js and SvelteKit front ends on top, and the delivery side too (Docker images, k8s on GCP, Cloudflare, CI&#x2F;CD, rollbacks). The last two years of that included LLM features people actually use, not demos: retrieval pipelines, agent workflows, a voice sales bot, and the eval harness that keeps a non-deterministic pipeline honest with a golden set and step traces.<p>Looking for contract or full-time, and I prefer work scoped to deliverables over seat time. I invoice from Nepal as an independent contractor. If you want to read code before replying: a queue-weighted max-pressure traffic signal controller validated on real junction footage (github.com&#x2F;kafle1&#x2F;relay), and a single-camera cricket LBW review tool (github.com&#x2F;kafle1&#x2F;pocket-drs).",
+    "time": 1788676105,
+    "type": "comment"
+  },
+  {
+    "by": "ergonaught",
+    "id": 49583865,
+    "parent": 49541888,
+    "text": "I want to read it, because it’s interesting. And yet.<p><a href=\"https:&#x2F;&#x2F;bcantrill.dtrace.org&#x2F;2026&#x2F;09&#x2F;05&#x2F;the-revolt-of-the-reader&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;bcantrill.dtrace.org&#x2F;2026&#x2F;09&#x2F;05&#x2F;the-revolt-of-the-re...</a>",
+    "time": 1788676099,
+    "type": "comment"
+  },
+  {
+    "by": "usr1106",
+    "id": 49583864,
+    "parent": 49582823,
+    "text": "It seems to be very popular on this site to condemn surveillance capitalists and billionaires. But who built and still maintains the basis for their power, misusing it and the billions. So-called smart engineers like many of HN readers.  If they rated moral higher than their personal 100Ks we would not need to wait for a government to stop the misery (in vain).",
+    "time": 1788676097,
+    "type": "comment"
+  },
+  {
+    "by": "hirako2000",
+    "id": 49583863,
+    "parent": 49582000,
+    "text": "Like pikapod?",
+    "time": 1788676088,
+    "type": "comment"
+  },
+  {
+    "by": "dyzone",
+    "id": 49583862,
+    "parent": 49583812,
+    "text": "Your kid might have absolute pitch. Only a few percent of people have it.<p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=t3Cb1qwCUvI\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=t3Cb1qwCUvI</a>",
+    "time": 1788676079,
+    "type": "comment"
+  },
+  {
+    "by": "disdegeneration",
+    "dead": true,
+    "id": 49583861,
+    "parent": 49573233,
+    "text": "[dead]",
+    "time": 1788676055,
+    "type": "comment"
+  },
+  {
+    "by": "mydreamof",
+    "id": 49583860,
+    "parent": 49583024,
+    "text": "Ofcouse it will go down. Look at cost of Fable vs GPT-6 - it is already 2.3 cheaper",
+    "time": 1788676045,
+    "type": "comment"
+  },
+  {
+    "by": "deadbabe",
+    "id": 49583859,
+    "parent": 49578590,
+    "text": "This view is a little idealistic.<p>Software Engineers have historically not been very liable even for errors they create by their own hands, and companies tend to operate on a “blameless” engineering culture where there is not really a formal consequence for screwing something up. Your peers may not trust you for a bit, but the trust builds back rapidly as they make their own mistakes and then empathize with your past transgressions.<p>And in the AI era, this attitude has extended even toward code engineers aren’t writing themselves. Everyone agrees not to protest too loudly if someone commits something wrong because tomorrow it might be you who has done so. The days of “obviously bad” slop code are largely behind us and most recent LLMs tend to put out decent code, so it is very hard to catch problems in review phases, you’d have to be very eagle eyed and that’s not scalable to every employee. It is much easier to let the code run wild for a bit and just be ready to fight fires should they come up.",
+    "time": 1788676031,
+    "type": "comment"
+  },
+  {
+    "by": "lefra",
+    "id": 49583858,
+    "parent": 49541888,
+    "text": "I should not have to install a browser plug-in to opt out of Google analytics (that&#x27;s what proposed as an opt-out option in the privacy policy).<p>Where&#x27;s the &quot;reject non-essential cookies&quot; button?",
+    "time": 1788676030,
+    "type": "comment"
+  },
+  {
+    "dead": true,
+    "deleted": true,
+    "id": 49583857,
+    "parent": 49583856,
+    "time": 1788676008,
+    "type": "comment"
+  },
+  {
+    "by": "gherkinnn",
+    "id": 49583855,
+    "parent": 49583854,
+    "text": "In the light of recent events. Ah, pre-LLM prose, what a delight.",
+    "time": 1788675995,
+    "type": "comment"
+  },
+  {
+    "by": "rustcleaner",
+    "id": 49583853,
+    "kids": [
+      49583869
+    ],
+    "parent": 49583802,
+    "text": "I don&#x27;t know about him but <i>yes yes I do</i> and you should want to, too! :^)",
+    "time": 1788675988,
+    "type": "comment"
+  },
+  {
+    "by": "therealdrag0",
+    "id": 49583852,
+    "parent": 49580466,
+    "text": "There’s a lot of misinformation around health subjects. Asking for evidence is very reasonable.",
+    "time": 1788675970,
+    "type": "comment"
+  },
+  {
+    "by": "grebc",
+    "id": 49583851,
+    "parent": 49583738,
+    "text": "Accountants get to charge high rates largely because good advice saves their customers large amounts of tax. When we&#x27;re talking tax accountants of course. There&#x27;s all sorts of accountants though - audit, management, forensic etc.",
+    "time": 1788675942,
+    "type": "comment"
+  },
+  {
+    "by": "elianwrites",
+    "dead": true,
+    "id": 49583849,
+    "parent": 49580939,
+    "text": "[flagged]",
+    "time": 1788675929,
+    "type": "comment"
+  },
+  {
+    "by": "hypfer",
+    "id": 49583848,
+    "parent": 49583760,
+    "text": "This is exactly how we should approach problems. Not through just throwing more resources at it (fighting GPU compute with GPU compute) but by being clever.<p>Thanks a lot for sharing!<p>Feeding it samples of a long-going conversation with Gemini 3.1 Pro is interesting. The first message seems to get flagged instantly, but later ones sometimes pass as human. Or at least more human-ish.<p>If I read the blogpost correctly, you&#x27;ve only &quot;trained&quot; on prompt&lt;-&gt;response and not interactive sessions?",
+    "time": 1788675913,
+    "type": "comment"
+  },
+  {
+    "by": "shsjshhsh",
+    "dead": true,
+    "id": 49583847,
+    "parent": 49583237,
+    "text": "[dead]",
+    "time": 1788675904,
+    "type": "comment"
+  },
+  {
+    "by": "bryanrasmussen",
+    "id": 49583846,
+    "parent": 49583102,
+    "text": "I came to this post and saw that Orwell had forgotten to mention money as the prerequisite of success, which was very unlike him.",
+    "time": 1788675896,
+    "type": "comment"
+  },
+  {
+    "deleted": true,
+    "id": 49583845,
+    "parent": 49583822,
+    "time": 1788675874,
+    "type": "comment"
+  },
+  {
+    "by": "torstenvl",
+    "id": 49583844,
+    "parent": 49575920,
+    "text": "<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Halliburton\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Halliburton</a>",
+    "time": 1788675817,
+    "type": "comment"
+  },
+  {
+    "by": "CalRobert",
+    "id": 49583841,
+    "parent": 49582954,
+    "text": "You could require a phone call or mailing a form (in the post) I suppose.",
+    "time": 1788675784,
+    "type": "comment"
+  },
+  {
+    "by": "1e1a",
+    "id": 49583840,
+    "parent": 49583157,
+    "text": "Interesting observation: As soon as you right click on a link, it switches from that to <a href=\"https:&#x2F;&#x2F;www.google.com&#x2F;url\" rel=\"nofollow\">https:&#x2F;&#x2F;www.google.com&#x2F;url</a>?...",
+    "time": 1788675782,
+    "type": "comment"
+  },
+  {
+    "by": "langs",
+    "id": 49583839,
+    "parent": 49581240,
+    "text": "I don&#x27;t get it. Why benchmark the latency instead of recall&#x2F;precision? Optimizing for millisecond-level latency is meaningless in the context of LLM calls. Accuracy is the tool&#x27;s greatest value, yet there is no testing for it?",
+    "time": 1788675778,
+    "type": "comment"
+  },
+  {
+    "by": "weird-eye-issue",
+    "id": 49583838,
+    "parent": 49583775,
+    "text": "Hmm never seen that in a residential neighborhood, is that a thing? Typically there is not a trash problem simply because the residents are careful enough. Trash doesn&#x27;t just appear out of nowhere",
+    "time": 1788675749,
+    "type": "comment"
+  },
+  {
+    "by": "Aadi_Ajmire",
+    "id": 49583837,
+    "kids": [
+      49583873
+    ],
+    "parent": 49583778,
+    "text": "Yes, honestly anyone could copy a lot of SaaS companies with Astra. But what matters is distribution and the connections you can build.",
+    "time": 1788675710,
+    "type": "comment"
+  },
+  {
+    "by": "OmarAfnan",
+    "dead": true,
+    "id": 49583836,
+    "parent": 49583835,
+    "text": "[flagged]",
+    "time": 1788675710,
+    "type": "comment"
+  },
+  {
+    "by": "xetifafa",
+    "id": 49583834,
+    "parent": 49583222,
+    "text": "I haven&#x27;t used it extensively, but I&#x27;ve heard cryptpad is good.",
+    "time": 1788675642,
+    "type": "comment"
+  },
+  {
+    "by": "atoav",
+    "id": 49583833,
+    "parent": 49561282,
+    "text": "Because my parents do not speak English and these solutions have no localizaction usually. Bubu baba may be sound stupid, but I am confident a German parent or an Italian friend would understand it better than an assortment of complicated English words they don&#x27;t know the meaning of and where the writing is unclear.<p>Additionally there is an effective mnemonic technique thst turns text into a melody that is sung (hence the name probably). This works better with &quot;baba bubo kali meta&quot; than with &quot;atrocious limestone&quot;.",
+    "time": 1788675641,
+    "type": "comment"
+  },
+  {
+    "by": "bryanrasmussen",
+    "id": 49583832,
+    "parent": 49563954,
+    "text": "I&#x27;ll just note that the EAA is not the only accessibility law operating in the world.<p>Furthermore there might be accessibility use cases in which your site works better for some people in dark mode and better for other people in light mode, expecting that people will switch their device settings when they come on your site if you have this problem would not be nice.",
+    "time": 1788675636,
+    "type": "comment"
+  },
+  {
+    "by": "INTPenis",
+    "id": 49583831,
+    "parent": 49582382,
+    "text": "systemd and ansible",
+    "time": 1788675635,
+    "type": "comment"
+  },
+  {
+    "by": "wiml",
+    "id": 49583830,
+    "parent": 49579032,
+    "text": "I think when I hear the terms, a &quot;dashpot&quot; is a specific mechanism and a &quot;snubber&quot; is its purpose. You can use dashpots for other purposes, and you can build snubbers out of things other than dashpots.",
+    "time": 1788675595,
+    "type": "comment"
+  },
+  {
+    "by": "bostik",
+    "id": 49583829,
+    "parent": 49582380,
+    "text": "Well, they have at least one way to extend their market&#x27;s lifespan at this point. They can double down on the provenance and openly claim the flag &quot;product of artisanal slavery&quot;.<p>I&#x27;m sure there are enough hard-right wingers who will happily flaunt their wealth and disdain for other human beings.",
+    "time": 1788675586,
+    "type": "comment"
+  },
+  {
+    "by": "byako",
+    "id": 49583828,
+    "parent": 49519101,
+    "text": "stall warning, angle of attack and wind dynamics in a balloon popping game, that is a lot of commitment to the flight model. respect.",
+    "time": 1788675585,
+    "type": "comment"
+  },
+  {
+    "by": "loopies",
+    "dead": true,
+    "id": 49583827,
+    "parent": 49581307,
+    "text": "[dead]",
+    "time": 1788675578,
+    "type": "comment"
+  },
+  {
+    "by": "eru",
+    "id": 49583826,
+    "parent": 49582883,
+    "text": "&gt; You don’t bet the two trillion dollar company on “the ai said so”<p>Making an ill-advised press release hardly dooms the company.  Just like the hugging face incident hasn&#x27;t doomed OpenAI.",
+    "time": 1788675569,
+    "type": "comment"
+  },
+  {
+    "by": "ZYbCRq22HbJ2y7",
+    "id": 49583825,
+    "parent": 49518383,
+    "text": "richard garriot helped make another game that has some UO-like elements, and is currently going through a major update: <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Shroud_of_the_Avatar:_Forsaken_Virtues\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Shroud_of_the_Avatar:_Forsaken...</a>",
+    "time": 1788675554,
+    "type": "comment"
+  },
+  {
+    "by": "phire",
+    "id": 49583824,
+    "parent": 49580795,
+    "text": "I suspect it&#x27;s actually possible to prove such an algorithm can&#x27;t exist.<p>By definition, a ZST hold no runtime data. It does hold some compile-time data based on its existence, but after compiling, that has been type erased away.<p>Since a ZST holds zero bits of state, there can only be one valid instance of it. You can&#x27;t have multiple different versions of the same ZST representing different things.<p>So if you have one, you automatically know it&#x27;s going to be equal to all other instances of the same ZST type. And not equal to any other ZSTs. There is no point doing a pointer comparison, as that gives you no extra information, type ownership is enough.",
+    "time": 1788675546,
+    "type": "comment"
+  },
+  {
+    "by": "mukmuk",
+    "id": 49583822,
+    "kids": [
+      49583845
+    ],
+    "parent": 49583232,
+    "text": "Why was this flagged?!",
+    "time": 1788675537,
+    "type": "comment"
+  },
+  {
+    "by": "aurareturn",
+    "id": 49583821,
+    "parent": 49583777,
+    "text": "Well, it&#x27;s taken 4 billion years for life to evolve into humans to be able to do math. That&#x27;s a lot of resources, right?<p>Likewise, LLMs also needed the same amount of evolution.<p>My point is that it&#x27;s silly to make these comparisons on resources. A single SOTA trained LLM isn&#x27;t just doing advanced math research. It&#x27;s used by hundreds of millions or even billions daily for various tasks. It&#x27;s just a tool humans invented.",
+    "time": 1788675530,
+    "type": "comment"
+  }
+]

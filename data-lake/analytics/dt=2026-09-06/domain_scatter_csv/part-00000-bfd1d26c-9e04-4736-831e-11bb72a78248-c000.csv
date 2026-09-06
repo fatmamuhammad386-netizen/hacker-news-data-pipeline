@@ -1,0 +1,4 @@
+domain,total_stories,total_score,total_comments,avg_score_per_story,avg_comments_per_story
+github.com,3,10,5,3.33,1.67
+nytimes.com,2,4,0,2.0,0.0
+youtube.com,4,4,0,1.0,0.0

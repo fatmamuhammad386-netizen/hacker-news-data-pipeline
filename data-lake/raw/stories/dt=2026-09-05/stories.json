@@ -1,0 +1,538 @@
+[
+  {
+    "by": "gherkinnn",
+    "descendants": 1,
+    "id": 49583854,
+    "kids": [
+      49583855
+    ],
+    "score": 1,
+    "time": 1788675995,
+    "title": "Reimagining projections for the interactive maps era (2021)",
+    "type": "story",
+    "url": "https://www.mapbox.com/blog/adaptive-projections"
+  },
+  {
+    "by": "edent",
+    "descendants": 0,
+    "id": 49583842,
+    "score": 4,
+    "time": 1788675785,
+    "title": "Site Is Closed on Sundays",
+    "type": "story",
+    "url": "https://v7.robweychert.com/"
+  },
+  {
+    "by": "OmarAfnan",
+    "descendants": 0,
+    "id": 49583835,
+    "kids": [
+      49583836
+    ],
+    "score": 1,
+    "time": 1788675710,
+    "title": "I built an interactive networking lab for learning network engineering",
+    "type": "story",
+    "url": "https://net-forge-kappa.vercel.app/"
+  },
+  {
+    "by": "daretograsp",
+    "descendants": 0,
+    "id": 49583823,
+    "score": 2,
+    "time": 1788675540,
+    "title": "An advanced attacker is targeting Salesforce and ServiceNow instances worldwide",
+    "type": "story",
+    "url": "https://www.reco.ai/blog/city-forum-campaign-salesforce-servicenow"
+  },
+  {
+    "by": "jonahss",
+    "descendants": 0,
+    "id": 49583809,
+    "score": 1,
+    "text": "Inspired by the post[1] about how OpenAI models which were restricted to only GET requests found an old German Wiki that allowed posting with a GET, I created anystation.net, which aims to be a message board in which arbitrarily-limited systems can post.<p>If you come up with more cools ideas, I&#x27;ll have claude add them ^.^ PING morse-code, printer spool, email, bring it on.<p>[1]<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49563355\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49563355</a>",
+    "time": 1788675335,
+    "title": "Show HN: Public message board for limited systems",
+    "type": "story",
+    "url": "https://anystation.net/"
+  },
+  {
+    "by": "theanonymousone",
+    "descendants": 0,
+    "id": 49583779,
+    "score": 1,
+    "time": 1788674822,
+    "title": "Switzerland's invisible skyline: why Zug towers over the rest",
+    "type": "story",
+    "url": "https://prospex.ch/blog/switzerlands-invisible-skyline-companies-by-building/"
+  },
+  {
+    "by": "aghuang",
+    "descendants": 3,
+    "id": 49583764,
+    "kids": [
+      49583778
+    ],
+    "score": 3,
+    "time": 1788674597,
+    "title": "A Figma clone built by GPT-6 Astra",
+    "type": "story",
+    "url": "https://wieslawsoltes.github.io/Vellum/"
+  },
+  {
+    "by": "dennysora-main",
+    "descendants": 0,
+    "id": 49583757,
+    "score": 1,
+    "text": "I often need a particular exit IP to access certain websites. Switching my VPN back and forth gets annoying, and finding separate proxies isn&#x27;t much fun either. I also wanted one place to see how much traffic I&#x27;m using and whether the connection is actually working.<p>So I built a small tool for myself: a Chrome extension and a local dashboard, with a proxy connected to its own WireGuard tunnel. I choose the website domains that should use it, while my other apps keep their normal connection. It uses Mullvad at the moment, and I can set it up with my Mullvad account number. The dashboard handles the connection and shows traffic over time, domain stats, and errors.<p>There&#x27;s also an &quot;Add page&quot; button that finds domains the page requests, including things like images, scripts, and APIs, and adds them to the proxy rules. It&#x27;s still domain-based routing, so the same domains in another tab follow those rules too. It isn&#x27;t a separate VPN for each tab.<p>I&#x27;m curious if anyone else needs something like this, or how you&#x27;re handling it now. I haven&#x27;t cleaned up the project for release yet, and I&#x27;m trying to decide whether it&#x27;s worth spending the time to open-source it.<p>Honestly, I&#x27;ve been less motivated to open-source my personal tools lately. I build them with AI, and part of me thinks anyone who needs one could just build their own version. Cleaning things up takes time too. I used to work in security, so I&#x27;d want to go through it carefully before publishing anything.<p>Then there&#x27;s maintenance. I know I don&#x27;t have to take every feature request, but I&#x27;d probably feel some responsibility once people started using it. A small tool that does exactly what I need can slowly turn into a much bigger project that I never needed in the first place.<p>Lately I&#x27;ve been pretty happy just making things for myself and using them. Anyone else finding themselves doing that more? I&#x27;d be interested to hear how you decide which personal tools are worth sharing.<p>Screenshots use demo data rather than my real account or traffic.<p>Extension: https:&#x2F;&#x2F;postimg.cc&#x2F;sM4QzNPM<p>Dashboard: https:&#x2F;&#x2F;postimg.cc&#x2F;CRsB0QCz",
+    "time": 1788674483,
+    "title": "Ask HN: Do you route only certain websites through a VPN?",
+    "type": "story"
+  },
+  {
+    "by": "rramadass",
+    "descendants": 0,
+    "id": 49583723,
+    "score": 3,
+    "time": 1788674052,
+    "title": "The Structured Vacuum: Thinking about Nothing [pdf]",
+    "type": "story",
+    "url": "https://rafelski.com/~johann/Books/StructVacuumE.pdf"
+  },
+  {
+    "by": "aghuang",
+    "descendants": 0,
+    "id": 49583720,
+    "score": 1,
+    "time": 1788674016,
+    "title": "Revealing a Hidden Class of Task-in-Prompt Adversarial Attacks on LLMs",
+    "type": "story",
+    "url": "https://aclanthology.org/2025.acl-long.334/"
+  },
+  {
+    "by": "v-yanakiev",
+    "descendants": 0,
+    "id": 49583706,
+    "score": 2,
+    "text": "<a href=\"https:&#x2F;&#x2F;v-yanakiev.itch.io&#x2F;machina\" rel=\"nofollow\">https:&#x2F;&#x2F;v-yanakiev.itch.io&#x2F;machina</a><p>Hi.<p>I&#x27;ve made a Rust + Box2D v3 game, compiled to WASM, in which you can build cars, helicopters, boats, and whatever else you can come up with, to destroy a set of targets.<p>The game also has a sandbox, mode, which you can access with esc+sandbox.<p>Torpedo example:\n<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=XrR5jtleDTk\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=XrR5jtleDTk</a><p>Helicopter bomb example:\n<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=vqSt4tpoKww\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=vqSt4tpoKww</a><p>Ground vehicle bomb example:\n<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=cBANeAxWhBQ\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=cBANeAxWhBQ</a><p>I might add p2p multiplayer if people are interested.",
+    "time": 1788673853,
+    "title": "Show HN: Rust and Box2D browser physics game – build destructive machines",
+    "type": "story",
+    "url": "https://v-yanakiev.itch.io/machina"
+  },
+  {
+    "by": "pan69",
+    "descendants": 0,
+    "id": 49583688,
+    "score": 1,
+    "time": 1788673695,
+    "title": "MyNoise – Custom Soundscapes for Focus, Relaxation and Sleep",
+    "type": "story",
+    "url": "https://mynoise.net/index.php"
+  },
+  {
+    "by": "pakupaku",
+    "descendants": 0,
+    "id": 49583685,
+    "score": 1,
+    "time": 1788673642,
+    "title": "interpretation to AI agents",
+    "type": "story",
+    "url": "https://ag3497120.github.io/call-me-vera/"
+  },
+  {
+    "by": "euanming",
+    "descendants": 0,
+    "id": 49583684,
+    "score": 2,
+    "time": 1788673625,
+    "title": "Robot writes in languages it has never seen before",
+    "type": "story",
+    "url": "https://www.wired.com/story/robot-writing/"
+  },
+  {
+    "by": "MrBuddyCasino",
+    "descendants": 0,
+    "id": 49583682,
+    "score": 1,
+    "time": 1788673602,
+    "title": "The biggest problem in buying AI compute is credit",
+    "type": "story",
+    "url": "https://twitter.com/gpugene/status/2096427973893411312"
+  },
+  {
+    "by": "aghuang",
+    "descendants": 0,
+    "id": 49583675,
+    "score": 2,
+    "time": 1788673531,
+    "title": "Anthropic IPO launch shifts toward mid-October",
+    "type": "story",
+    "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html"
+  },
+  {
+    "by": "abhishekucs",
+    "descendants": 1,
+    "id": 49583652,
+    "kids": [
+      49583672
+    ],
+    "score": 1,
+    "time": 1788673282,
+    "title": "Show HN: Assist (Voice Screenshot)",
+    "type": "story",
+    "url": "https://assistapp.dev"
+  },
+  {
+    "by": "num42",
+    "descendants": 0,
+    "id": 49583650,
+    "score": 2,
+    "time": 1788673247,
+    "title": "TR-106",
+    "type": "story",
+    "url": "https://en.wikipedia.org/wiki/TR-106"
+  },
+  {
+    "by": "narenst",
+    "descendants": 1,
+    "id": 49583646,
+    "kids": [
+      49583748
+    ],
+    "score": 2,
+    "time": 1788673234,
+    "title": "LA District Bans Most A.I. For Students",
+    "type": "story",
+    "url": "https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html"
+  },
+  {
+    "by": "Alien1Being",
+    "descendants": 0,
+    "id": 49583630,
+    "score": 7,
+    "time": 1788673061,
+    "title": "Greenland forces Trump's US oil firm to delay drilling",
+    "type": "story",
+    "url": "https://www.theguardian.com/world/2026/aug/12/trump-greenland-oil"
+  },
+  {
+    "by": "klaustro",
+    "descendants": 0,
+    "id": 49583626,
+    "score": 3,
+    "time": 1788672991,
+    "title": "Consciousness, creativity andunderstanding not obstacles to machine intelligence",
+    "type": "story",
+    "url": "https://link.springer.com/article/10.1007/s11229-026-05655-1"
+  },
+  {
+    "by": "diazc",
+    "descendants": 0,
+    "id": 49583618,
+    "score": 1,
+    "time": 1788672854,
+    "title": "'Huge Breakthrough' in the Math of Imbalance",
+    "type": "story",
+    "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/"
+  },
+  {
+    "by": "snihalani",
+    "descendants": 0,
+    "id": 49583613,
+    "score": 1,
+    "time": 1788672788,
+    "title": "Find fastest DoH provider for you",
+    "type": "story",
+    "url": "https://dnsspeedtest.online/"
+  },
+  {
+    "by": "Alien1Being",
+    "descendants": 0,
+    "id": 49583612,
+    "score": 1,
+    "time": 1788672786,
+    "title": "Why Laser Beams Are the Hottest New Tech in Defense",
+    "type": "story",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/why-laser-beams-are-the-hottest-new-tech-in-defense"
+  },
+  {
+    "by": "Eridanus2",
+    "descendants": 0,
+    "id": 49583600,
+    "score": 3,
+    "time": 1788672628,
+    "title": "After 30 Years of Silence, the Original NSA Whistleblower Looks Back",
+    "type": "story",
+    "url": "https://therealnews.com/after-30-years-of-silence-the-original-nsa-whistleblower-looks-back"
+  },
+  {
+    "by": "xiaoyu2006",
+    "descendants": 0,
+    "id": 49583578,
+    "score": 1,
+    "time": 1788672354,
+    "title": "LMMS 1.3.0-alpha.2 Release (after 5 yrs of last release)",
+    "type": "story",
+    "url": "https://github.com/LMMS/lmms/releases/tag/v1.3.0-alpha.2"
+  },
+  {
+    "by": "granda",
+    "descendants": 0,
+    "id": 49583570,
+    "score": 3,
+    "time": 1788672281,
+    "title": "I Run Grok Bot with BotOps",
+    "type": "story",
+    "url": "https://granda.org/en/2026/09/06/how-i-run-grok-bot/"
+  },
+  {
+    "by": "tosh",
+    "descendants": 0,
+    "id": 49583568,
+    "score": 6,
+    "time": 1788672267,
+    "title": "Joy and Curiosity #98",
+    "type": "story",
+    "url": "https://twitter.com/thorstenball/status/2096466015055953967"
+  },
+  {
+    "by": "saineshnakra",
+    "descendants": 0,
+    "id": 49583563,
+    "kids": [
+      49583564
+    ],
+    "score": 5,
+    "time": 1788672206,
+    "title": "Ada: An open-source data analyst that tells you when its own forecast is useless",
+    "type": "story",
+    "url": "https://github.com/saineshnakra/automated-data-analyst"
+  },
+  {
+    "by": "rvz",
+    "descendants": 0,
+    "id": 49583549,
+    "score": 1,
+    "time": 1788671973,
+    "title": "An Empirical Study on Soundness Bugs in the Rust Compiler",
+    "type": "story",
+    "url": "https://arxiv.org/abs/2608.28713"
+  },
+  {
+    "by": "rdmuser",
+    "descendants": 0,
+    "id": 49583547,
+    "score": 1,
+    "time": 1788671947,
+    "title": "Extract and Review Web Page Links Using a Bookmarklet",
+    "type": "story",
+    "url": "https://www.adamsdesk.com/posts/extract-review-web-page-links/"
+  },
+  {
+    "by": "xbmcuser",
+    "descendants": 0,
+    "id": 49583537,
+    "score": 2,
+    "time": 1788671822,
+    "title": "What \"Decolonizing\" Israel Looks Like. | Professor Noura Erakat - Full Interview",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=TuBMKhObhgs"
+  },
+  {
+    "by": "Aadi_Ajmire",
+    "descendants": 0,
+    "id": 49583533,
+    "score": 3,
+    "time": 1788671759,
+    "title": "Revise is the Figma of machine learning",
+    "type": "story",
+    "url": "https://www.revise.live/"
+  },
+  {
+    "by": "joebig",
+    "descendants": 0,
+    "id": 49583521,
+    "score": 6,
+    "time": 1788671628,
+    "title": "A volunteer stopped a backdoor from exposing Linux systems worldwide (2024)",
+    "type": "story",
+    "url": "https://www.theverge.com/2024/4/2/24119342/xz-utils-linux-backdoor-attempt"
+  },
+  {
+    "by": "ashishmallur",
+    "descendants": 0,
+    "id": 49583510,
+    "score": 2,
+    "time": 1788671492,
+    "title": "RecallDock",
+    "type": "story"
+  },
+  {
+    "by": "Teever",
+    "descendants": 0,
+    "id": 49583507,
+    "score": 3,
+    "time": 1788671468,
+    "title": "Europe would not be able to sustain war of attrition with Russia",
+    "type": "story",
+    "url": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say"
+  },
+  {
+    "by": "redbluething",
+    "descendants": 0,
+    "id": 49583492,
+    "score": 3,
+    "time": 1788671287,
+    "title": "A very old Blog?",
+    "type": "story",
+    "url": "https://www.cannonade.net/blog/a-very-old-blog"
+  },
+  {
+    "by": "mimorigasaka",
+    "descendants": 1,
+    "id": 49583490,
+    "kids": [
+      49583681
+    ],
+    "score": 4,
+    "time": 1788671205,
+    "title": "Fiber-immersion microfabrication with sub-10µm resolution for under $300 [video]",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=UvV2CH5il3Q"
+  },
+  {
+    "by": "TheWiggles",
+    "descendants": 0,
+    "id": 49583488,
+    "score": 5,
+    "time": 1788671124,
+    "title": "Hwaro – A Lightweight and Fast Static Site Generator Written in Crystal",
+    "type": "story",
+    "url": "https://github.com/hahwul/hwaro"
+  },
+  {
+    "by": "guscatalano",
+    "descendants": 0,
+    "id": 49583478,
+    "kids": [
+      49583479
+    ],
+    "score": 1,
+    "time": 1788670961,
+    "title": "A Wiki for AIs",
+    "type": "story",
+    "url": "https://synthetic.wiki/"
+  },
+  {
+    "by": "haswell",
+    "descendants": 0,
+    "id": 49583476,
+    "score": 3,
+    "time": 1788670923,
+    "title": "Any Nix package, live in your browser",
+    "type": "story",
+    "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser"
+  },
+  {
+    "by": "theanonymousone",
+    "descendants": 0,
+    "id": 49583457,
+    "score": 8,
+    "time": 1788670600,
+    "title": "Using Blender with coding agents on macOS",
+    "type": "story",
+    "url": "https://til.simonwillison.net/llms/blender-coding-agents-macos"
+  },
+  {
+    "by": "usernametaken29",
+    "descendants": 3,
+    "id": 49583440,
+    "kids": [
+      49583759,
+      49583690,
+      49583598
+    ],
+    "score": 4,
+    "text": "I had a classic Bayesian statistical education throughout my undergraduate and grad years and I’ve come to conclude that the plethora of books offered are pretty bad.<p>For me personally statistics is intuitive if illustrated properly. \nA great example is https:&#x2F;&#x2F;seeing-theory.brown.edu&#x2F;<p>I was wondering whether it would make sense to turn the intuitions behind statistics into a book. Would anyone read it? Do people still read stats books or would it be mostly a waste of effort?\nIf you wanted to teach&#x2F;help people understand statistics, what resources would you consider?",
+    "time": 1788670338,
+    "title": "Ask HN: Would you read a statistics textbook?",
+    "type": "story"
+  },
+  {
+    "by": "vhayda",
+    "descendants": 0,
+    "id": 49583423,
+    "kids": [
+      49583447
+    ],
+    "score": 1,
+    "time": 1788670080,
+    "title": "Show HN: Move Claude Code sessions between accounts in Claude Desktop",
+    "type": "story",
+    "url": "https://github.com/vitaliyhayda/claude-transplant"
+  },
+  {
+    "by": "num42",
+    "descendants": 0,
+    "id": 49583396,
+    "score": 1,
+    "time": 1788669740,
+    "title": "Lists of Problems",
+    "type": "story",
+    "url": "https://en.wikipedia.org/wiki/Lists_of_problems"
+  },
+  {
+    "by": "chris_overseas",
+    "descendants": 0,
+    "id": 49583387,
+    "score": 7,
+    "time": 1788669702,
+    "title": "Clean up your Android TV",
+    "type": "story",
+    "url": "https://tv.cobanov.dev/"
+  },
+  {
+    "by": "luu",
+    "descendants": 0,
+    "id": 49583381,
+    "score": 4,
+    "time": 1788669600,
+    "title": "Decapitating a MacBook",
+    "type": "story",
+    "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/"
+  },
+  {
+    "by": "throwaway81523",
+    "descendants": 0,
+    "id": 49583374,
+    "score": 2,
+    "time": 1788669516,
+    "title": "Care for a Little More AI?",
+    "type": "story",
+    "url": "https://proofsandprompts.com/2026/08/30/care-for-a-little-more-ai/"
+  },
+  {
+    "by": "fourfire",
+    "descendants": 0,
+    "id": 49583356,
+    "score": 3,
+    "time": 1788669341,
+    "title": "WeatherNext 3: Hourly global weather forecasts using live satellite data",
+    "type": "story",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/"
+  },
+  {
+    "by": "qainsights",
+    "descendants": 1,
+    "id": 49583345,
+    "kids": [
+      49583573
+    ],
+    "score": 3,
+    "time": 1788669240,
+    "title": "Thank you for being part of the GitHub Classroom journey",
+    "type": "story",
+    "url": "https://github.com/orgs/community/discussions/205975"
+  }
+]

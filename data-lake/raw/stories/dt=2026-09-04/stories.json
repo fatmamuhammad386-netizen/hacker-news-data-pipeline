@@ -1,0 +1,575 @@
+[
+  {
+    "by": "pkuhar",
+    "descendants": 1,
+    "id": 49571650,
+    "kids": [
+      49571651
+    ],
+    "score": 1,
+    "time": 1788566779,
+    "title": "Agent status in the SD Card slot",
+    "type": "story",
+    "url": "https://sidepulse.io/sidepulse.html"
+  },
+  {
+    "by": "thomiasj",
+    "descendants": 0,
+    "id": 49571640,
+    "kids": [
+      49571644
+    ],
+    "score": 2,
+    "time": 1788566687,
+    "title": "Uia-reader – read Windows UI content instead of screenshotting it",
+    "type": "story",
+    "url": "https://github.com/thomiasj/uia-reader"
+  },
+  {
+    "by": "Cider9986",
+    "descendants": 0,
+    "id": 49571634,
+    "score": 2,
+    "time": 1788566656,
+    "title": "Nitter has more working instances than before the takedowns",
+    "type": "story",
+    "url": "https://codeberg.org/mv12star/shitter/wiki/Instances"
+  },
+  {
+    "by": "nojs",
+    "descendants": 0,
+    "id": 49571632,
+    "score": 2,
+    "time": 1788566654,
+    "title": "Artificial Analysis Intelligence Index v4.2",
+    "type": "story",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
+  },
+  {
+    "by": "ytch",
+    "descendants": 0,
+    "id": 49571627,
+    "score": 2,
+    "time": 1788566588,
+    "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
+    "type": "story",
+    "url": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/"
+  },
+  {
+    "by": "zof3",
+    "descendants": 0,
+    "id": 49571621,
+    "score": 2,
+    "text": "Personally, I&#x27;ve found it to be a bit too-aligned out of the gate, with some overly-legalistic interpretations and cautiousness that is unwarranted and makes it sounds like it actively wants to rat you out for... anything. Anyone find something similar, completely different, or somewhere in between?",
+    "time": 1788566546,
+    "title": "Ask HN: Initial Thoughts on GPT-6 Astra?",
+    "type": "story"
+  },
+  {
+    "by": "tedsanders",
+    "descendants": 0,
+    "id": 49571582,
+    "score": 2,
+    "time": 1788566271,
+    "title": "GPT-6 Astra is now out to all Plus, Business, Pro, and Enterprise users",
+    "type": "story",
+    "url": "https://twitter.com/sama/status/2096008528834244741"
+  },
+  {
+    "by": "OxO4",
+    "descendants": 0,
+    "id": 49571569,
+    "kids": [
+      49571641
+    ],
+    "score": 5,
+    "time": 1788566137,
+    "title": "The White House is making arcade games racist",
+    "type": "story",
+    "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
+  },
+  {
+    "by": "s-xyz",
+    "descendants": 0,
+    "id": 49571566,
+    "score": 4,
+    "time": 1788566102,
+    "title": "Show HN: Personal Context MCP",
+    "type": "story",
+    "url": "https://lanes.sh/showcase/personal-context-mcp"
+  },
+  {
+    "by": "firatcan",
+    "descendants": 1,
+    "id": 49571563,
+    "kids": [
+      49571564
+    ],
+    "score": 3,
+    "time": 1788566071,
+    "title": "Show HN: Agent-to-agent payment. Your agents can pay each other",
+    "type": "story",
+    "url": "https://openspender.com/agent-to-agent"
+  },
+  {
+    "by": "brbcoding",
+    "descendants": 0,
+    "id": 49571548,
+    "score": 3,
+    "time": 1788565898,
+    "title": "GPT-6 Astra on Vercel AI Gateway",
+    "type": "story",
+    "url": "https://vercel.com/ai-gateway/models/gpt-6-astra"
+  },
+  {
+    "by": "tupe12334",
+    "descendants": 1,
+    "id": 49571537,
+    "kids": [
+      49571538
+    ],
+    "score": 2,
+    "time": 1788565829,
+    "title": "Moadim.io a Scheduler for Agents",
+    "type": "story",
+    "url": "https://moadim.io/"
+  },
+  {
+    "by": "BiraIgnacio",
+    "descendants": 0,
+    "id": 49571491,
+    "score": 4,
+    "time": 1788565343,
+    "title": "Why wait? Business grads buying firms to install themselves as CEO",
+    "type": "story",
+    "url": "https://www.bbc.com/news/articles/czxqpqrzq01o"
+  },
+  {
+    "by": "cebert",
+    "descendants": 0,
+    "id": 49571465,
+    "score": 4,
+    "time": 1788565130,
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "type": "story",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"
+  },
+  {
+    "by": "1vuio0pswjnm7",
+    "descendants": 0,
+    "id": 49571448,
+    "score": 2,
+    "text": "https:&#x2F;&#x2F;web.archive.org&#x2F;cdx&#x2F;search&#x2F;cdx?url=example.com&amp;fl=timestamp,original&amp;limit=5&amp;showDupeCount=true<p>https:&#x2F;&#x2F;web.archive.org&#x2F;*&#x2F;example.com<p>HTTP 429 Too many requests",
+    "time": 1788564963,
+    "title": "Ask HN: What's Going on with Web.archive.org",
+    "type": "story"
+  },
+  {
+    "by": "Cider9986",
+    "descendants": 0,
+    "id": 49571395,
+    "score": 2,
+    "time": 1788564544,
+    "title": "Apple's iPhone Event Early [video]",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=4nC_YTAVmls"
+  },
+  {
+    "by": "rvialep",
+    "descendants": 0,
+    "id": 49571386,
+    "kids": [
+      49571387
+    ],
+    "score": 2,
+    "time": 1788564515,
+    "title": "Build your own benchmark masterclass",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=IUmomwsgRN0"
+  },
+  {
+    "by": "barry-cotter",
+    "descendants": 1,
+    "id": 49571368,
+    "kids": [
+      49571638
+    ],
+    "score": 4,
+    "time": 1788564374,
+    "title": "The Decade of Decline in Seattle Public Schools",
+    "type": "story",
+    "url": "https://www.educationprogress.org/p/the-decade-of-decline-in-seattle"
+  },
+  {
+    "by": "zahrevsky",
+    "descendants": 1,
+    "id": 49571360,
+    "kids": [
+      49571398
+    ],
+    "score": 3,
+    "time": 1788564258,
+    "title": "Fontra – The browser-based Font Editor",
+    "type": "story",
+    "url": "https://fontra.xyz"
+  },
+  {
+    "by": "megacorp",
+    "descendants": 1,
+    "id": 49571306,
+    "kids": [
+      49571517
+    ],
+    "score": 3,
+    "time": 1788563778,
+    "title": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
+    "type": "story",
+    "url": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf"
+  },
+  {
+    "by": "Chidiebere229",
+    "descendants": 0,
+    "id": 49571263,
+    "score": 4,
+    "time": 1788563399,
+    "title": "Connecting every app to every other app",
+    "type": "story",
+    "url": "https://blog.val.town/connectors"
+  },
+  {
+    "by": "bigcat12345678",
+    "descendants": 1,
+    "id": 49571255,
+    "kids": [
+      49571595,
+      49571256
+    ],
+    "score": 5,
+    "time": 1788563358,
+    "title": "Gimlet's Series B",
+    "type": "story",
+    "url": "https://gimletlabs.ai/blog/announcing-series-b"
+  },
+  {
+    "by": "HR01",
+    "descendants": 0,
+    "id": 49571246,
+    "score": 2,
+    "time": 1788563255,
+    "title": "Columbo should model CoT reasoning",
+    "type": "story",
+    "url": "https://hollisrobbinsanecdotal.substack.com/p/just-one-more-thing"
+  },
+  {
+    "by": "sbulaev",
+    "descendants": 1,
+    "id": 49571243,
+    "kids": [
+      49571576
+    ],
+    "score": 4,
+    "time": 1788563227,
+    "title": "Oracle Health Execs Subpoenaed After VA Contract Costs Nearly Triple",
+    "type": "story",
+    "url": "https://medcitynews.com/2026/09/oracle-healthcare-ehr-va/"
+  },
+  {
+    "by": "E-Reverance",
+    "descendants": 0,
+    "id": 49571234,
+    "score": 2,
+    "time": 1788563172,
+    "title": "Diffusion as a Training Curriculum for Timestep-Free Iterative Reasoning",
+    "type": "story",
+    "url": "https://arxiv.org/abs/2609.01449"
+  },
+  {
+    "by": "littlexsparkee",
+    "descendants": 3,
+    "id": 49571162,
+    "kids": [
+      49571340,
+      49571318
+    ],
+    "score": 4,
+    "time": 1788562553,
+    "title": "Are Fewer Children the Future?",
+    "type": "story",
+    "url": "https://newrepublic.com/article/215004/fewer-children-future-global-fertility-decline"
+  },
+  {
+    "by": "fcesco",
+    "descendants": 0,
+    "id": 49571152,
+    "score": 4,
+    "time": 1788562469,
+    "title": "GPT-6 Astra proves Berge Fulkerson for C(20) graphs",
+    "type": "story",
+    "url": "https://twitter.com/fcesco/status/2096001522312085724"
+  },
+  {
+    "by": "orange999",
+    "descendants": 3,
+    "id": 49571138,
+    "kids": [
+      49571412,
+      49571413
+    ],
+    "score": 3,
+    "text": "Now that Nitter, XCancel, and Twitterwebviewer are gone, it seems to be the best website like that still around.<p>One thing (which some people don’t seem to realize) is that you have to go to advanced search on the website to search by term rather than search by profile. On your phone, you have to use the 3 dots on the top left to open the menu that has advanced search. Once you figure that out, I don’t really find it that complicated to use.<p>Twitterviewer does have a lot of ads, but then again X itself has a lot of ads too.",
+    "time": 1788562377,
+    "title": "Thoughts on Twitterviewer.net?",
+    "type": "story"
+  },
+  {
+    "by": "leovs09",
+    "descendants": 0,
+    "id": 49571131,
+    "score": 2,
+    "time": 1788562334,
+    "title": "Claude Code skills for advanced context engineering techniques and patterns",
+    "type": "story",
+    "url": "https://github.com/NeoLabHQ/context-engineering-kit"
+  },
+  {
+    "by": "granto",
+    "descendants": 0,
+    "id": 49571102,
+    "score": 2,
+    "text": "Hi HN, I’m the creator of TimerVana.<p>It&#x27;s not just &quot;another timer app&quot;.  The engineering analogy is a lightweight task scheduler for things people do in the real world. A normal timer models one countdown. TimerVana models a small dependency graph in JSON: some steps run sequentially, others run in parallel, and everything can converge on a target finish time. You can also combine multiple timers (e.g., combine a timer with all the steps to cook a steak + a timer for roasting vegetables).<p>I originally built it because I often set multiple timers and alarms when cooking and got tired of repeatedly juggling separate alarms to get a main dish and several sides ready together. The same model also works for workouts, study sessions, morning routines, and other repeatable processes.<p>The iPhone app is local-first by design [0]. You can create, save, and run timers entirely on your phone without an account or cloud sharing. If you want the networked features, the companion website lets you browse and download timers, upload your own, and share them with other people.<p>Everything available today is free. I may eventually add optional AI-assisted timer creation as a paid feature, but I haven’t settled on the business model or pricing. I&#x27;m more doing this to solve my own problem and hope it will help others as well.<p>I’m interested in whether the underlying abstraction makes sense: does a sequence of dependent and parallel timed steps help you? I’d also appreciate feedback on the balance I took between the completely local experience and the optional sharing layer (I was partially inspired by the old iOS Workflow App, which was acquired by Apple and is now called Shortcuts). Of course, any other feedback very much appreciated.<p>[0]: <a href=\"https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;timervana-share-complex-timers&#x2F;id6754122976\">https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;timervana-share-complex-timers...</a>",
+    "time": 1788562079,
+    "title": "Show HN: TimerVana a Local-first scheduler for real world routines",
+    "type": "story",
+    "url": "https://timervana.net/browse"
+  },
+  {
+    "by": "exploraz",
+    "descendants": 0,
+    "id": 49571096,
+    "score": 13,
+    "time": 1788562024,
+    "title": "This Month in Ladybird – August 2026",
+    "type": "story",
+    "url": "https://ladybird.org/newsletter/2026-08-31/"
+  },
+  {
+    "by": "JimsonYang",
+    "descendants": 1,
+    "id": 49571091,
+    "kids": [
+      49571103
+    ],
+    "score": 1,
+    "text": "So I was prototyping with claude code and Godot engine, and I thought it was weird that this specific category of AI isn&#x27;t as big as video gen creative suites. Like theres big names like runway and higgsfield but when it comes to video games there&#x27;s no major company trying to make a one stop shop using AI to make video games. I&#x27;m sure it isn&#x27;t because of a lack of trying, I&#x27;m sure developers thought about it as one of the first things to automate.<p>If I had to guess there&#x27;s a couple reasons:<p>1)Quality-making a good game requires extreme attention to detail all of which is non coding related. The animations on idle characters, how the background characters look, the sound design and clever story. 90% of gaming is art<p>2) backlash from players. I think this is an important factor but not the dominant factor. For reasons like games like Slotbound have had amazing positive responses despite being ai generated as long as they are high quality. On the flip side reputation does matter for major studios so adoption can be slow.<p>3)No money in the industry. Most game studios aren&#x27;t raining in money, therefore making video games would be an expensive and time consuming hobby that got slightly easier, but is still difficult. A normal prosumer simply doesn&#x27;t have the time nor dedication to make an project that is going to take months of their time<p>These are my guesses, but I would love to hear responses from people in the industry or people who have attempted this idea or VCs who have their own thesis on the market.<p>p.s. this isn&#x27;t a lazy attempt startup research, I&#x27;m seriously just curious",
+    "time": 1788561949,
+    "title": "Ask HN: Why isn't there a cursor for video games development",
+    "type": "story"
+  },
+  {
+    "by": "Arubis",
+    "descendants": 1,
+    "id": 49571061,
+    "kids": [
+      49571093
+    ],
+    "score": 1,
+    "time": 1788561720,
+    "title": "NextDNS: fully configurable DNS, accepts money from customers as business model",
+    "type": "story",
+    "url": "https://nextdns.io/"
+  },
+  {
+    "by": "wibbily",
+    "descendants": 1,
+    "id": 49571047,
+    "kids": [
+      49571656
+    ],
+    "score": 14,
+    "time": 1788561630,
+    "title": "Can guitar frets perform multiplication?",
+    "type": "story",
+    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html"
+  },
+  {
+    "by": "josephcsible",
+    "descendants": 6,
+    "id": 49571038,
+    "kids": [
+      49571230,
+      49571639,
+      49571066
+    ],
+    "score": 9,
+    "time": 1788561562,
+    "title": "Christmas Village shoppers no longer will be allowed to enter booths",
+    "type": "story",
+    "url": "https://www.phillyvoice.com/christmas-village-booths-ada-compliance/"
+  },
+  {
+    "by": "cisc",
+    "descendants": 0,
+    "id": 49571015,
+    "score": 4,
+    "time": 1788561297,
+    "title": "What Tech Titans Don't Understand About Sci-Fi",
+    "type": "story",
+    "url": "https://www.theatlantic.com/newsletters/2026/09/the-books-briefing-tech-titans-sci-fi-asimov-lepore/688525/"
+  },
+  {
+    "by": "pykello",
+    "descendants": 0,
+    "id": 49571006,
+    "score": 3,
+    "time": 1788561205,
+    "title": "Rust's Type Checker Implementation Is Unsound: An Empirical Study",
+    "type": "story",
+    "url": "https://arxiv.org/abs/2608.28713"
+  },
+  {
+    "by": "ndesaulniers",
+    "descendants": 0,
+    "id": 49571001,
+    "score": 3,
+    "time": 1788561172,
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "type": "story",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
+  },
+  {
+    "by": "splxai",
+    "descendants": 0,
+    "id": 49570987,
+    "score": 2,
+    "time": 1788560975,
+    "title": "The Search Evaluation Ladder",
+    "type": "story",
+    "url": "https://www.searchplex.net/blog/search-evaluation-ladder"
+  },
+  {
+    "by": "bookofjoe",
+    "descendants": 4,
+    "id": 49570875,
+    "kids": [
+      49570876,
+      49570883
+    ],
+    "score": 3,
+    "time": 1788560128,
+    "title": "Los Angeles District Bans Most A.I. For Students",
+    "type": "story",
+    "url": "https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html"
+  },
+  {
+    "by": "xenohunter",
+    "descendants": 0,
+    "id": 49570867,
+    "score": 1,
+    "time": 1788560059,
+    "title": "Basic News – a Telegram bot with customizable news digests",
+    "type": "story",
+    "url": "https://basicnews.world/"
+  },
+  {
+    "by": "s14jsmith",
+    "descendants": 0,
+    "id": 49570832,
+    "score": 1,
+    "time": 1788559854,
+    "title": "A pre-registered test: can a business's rules be recovered from its data?",
+    "type": "story",
+    "url": "https://justinsmith.build/writing/everything-a-business-knows/"
+  },
+  {
+    "by": "nulvec",
+    "descendants": 0,
+    "id": 49570831,
+    "kids": [
+      49570843
+    ],
+    "score": 1,
+    "time": 1788559843,
+    "title": "What runs when you open a repository",
+    "type": "story",
+    "url": "https://veltron.cc/research/what-runs-when-you-open-a-repository"
+  },
+  {
+    "by": "jadidbourbaki",
+    "descendants": 0,
+    "id": 49570829,
+    "score": 2,
+    "text": "How scalably can we cheaply fine-tune small models for well-defined tasks? Frontier models are bad at clock reading. I fine-tuned a <i>tiny</i> 450M model from Liquid AI to match GPT-5.6 Sol and beat Fable 5.1 on this task. Here’s my fine-tuned open model called Time Wizard.",
+    "time": 1788559839,
+    "title": "Show HN: Time Wizard",
+    "type": "story",
+    "url": "https://huggingface.co/jadidbourbaki/time-wizard"
+  },
+  {
+    "by": "httbs",
+    "descendants": 0,
+    "id": 49570825,
+    "score": 1,
+    "time": 1788559816,
+    "title": "Show HN: Mongotar – Files to Prompt, and Back",
+    "type": "story",
+    "url": "https://github.com/sebastiancarlos/mongotar"
+  },
+  {
+    "by": "smithmayowa",
+    "descendants": 1,
+    "id": 49570804,
+    "kids": [
+      49571376
+    ],
+    "score": 3,
+    "text": "Wolfram Cloud is currently out and has been out for over 48hrs now, the link is showing a status 503 error code and their site is reportedly being updated.<p>Is this the same on your end and what sort of update takes over 48 hrs to be deployed if it is same on your ends.<p>https:&#x2F;&#x2F;www.wolframcloud.com",
+    "time": 1788559632,
+    "title": "Ask HN: Wolfram Cloud Is Out",
+    "type": "story"
+  },
+  {
+    "by": "dendark",
+    "descendants": 0,
+    "id": 49570802,
+    "score": 19,
+    "time": 1788559614,
+    "title": "Almost half of ICANN-accredited registrars under the control of a single busines",
+    "type": "story",
+    "url": "https://domainincite.com/31912-dropcatch-acquires-300-more-registrars"
+  },
+  {
+    "by": "frizlab",
+    "descendants": 0,
+    "id": 49570792,
+    "score": 3,
+    "time": 1788559517,
+    "title": "SwiftTUI",
+    "type": "story",
+    "url": "https://swifttui.sh/"
+  },
+  {
+    "by": "endowed7",
+    "descendants": 0,
+    "id": 49570789,
+    "kids": [
+      49571332
+    ],
+    "score": 1,
+    "time": 1788559499,
+    "title": "Cloud Engineer",
+    "type": "story"
+  },
+  {
+    "by": "hsellentin",
+    "descendants": 0,
+    "id": 49570787,
+    "kids": [
+      49570788
+    ],
+    "score": 1,
+    "time": 1788559493,
+    "title": "Exhibit of 2026 AI Agents",
+    "type": "story",
+    "url": "https://agent-museum-2026.halstonsellentin.chatgpt.site"
+  }
+]

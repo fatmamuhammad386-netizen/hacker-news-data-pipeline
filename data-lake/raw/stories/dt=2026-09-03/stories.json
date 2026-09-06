@@ -1,0 +1,540 @@
+[
+  {
+    "by": "GautamTalksDev",
+    "descendants": 0,
+    "id": 49558101,
+    "kids": [
+      49558102
+    ],
+    "score": 1,
+    "time": 1788475138,
+    "title": "I tracked 7,022 MCP tool definitions. 14 servers changed within 27 hours",
+    "type": "story",
+    "url": "https://github.com/GautamTalksDev/mcp-pin/blob/main/docs/findings/2026-09-03-schema-drift.md"
+  },
+  {
+    "by": "gumby",
+    "descendants": 0,
+    "id": 49558086,
+    "score": 1,
+    "time": 1788475051,
+    "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
+    "type": "story",
+    "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796"
+  },
+  {
+    "by": "gmays",
+    "descendants": 0,
+    "id": 49558069,
+    "score": 1,
+    "time": 1788474925,
+    "title": "Rich vs. King in the Real World: Why I sold my company",
+    "type": "story",
+    "url": "https://longform.asmartbear.com/rich-vs-king-sold-company/"
+  },
+  {
+    "by": "E-Reverance",
+    "descendants": 0,
+    "id": 49558064,
+    "score": 1,
+    "time": 1788474865,
+    "title": "Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models",
+    "type": "story",
+    "url": "https://energy-based-fine-tuning.github.io/"
+  },
+  {
+    "by": "docjojo",
+    "descendants": 0,
+    "id": 49558061,
+    "score": 1,
+    "time": 1788474853,
+    "title": "Blockchain und Bitcoin erklärt in 6 Episoden – Episode 4",
+    "type": "story",
+    "url": "https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e"
+  },
+  {
+    "by": "Apollo_R",
+    "descendants": 1,
+    "id": 49558058,
+    "kids": [
+      49558091,
+      49558059
+    ],
+    "score": 1,
+    "time": 1788474838,
+    "title": "Jenzin-Wuang-Nemotron-30B-A3B-BF16",
+    "type": "story",
+    "url": "https://huggingface.co/ApolloRaines/Jenzin-Wuang-Nemotron-30B-A3B-BF16"
+  },
+  {
+    "by": "TMWNN",
+    "descendants": 0,
+    "id": 49558047,
+    "score": 1,
+    "time": 1788474769,
+    "title": "Perhaps I should look up the statute of limitations",
+    "type": "story",
+    "url": "https://lars.ingebrigtsen.no/2026/09/03/perhaps-i-should-look-up-the-statute-of-limitations/"
+  },
+  {
+    "by": "text0404",
+    "descendants": 0,
+    "id": 49558041,
+    "score": 2,
+    "time": 1788474732,
+    "title": "Flock Taught Cops How to Surveil No Kings Protesters",
+    "type": "story",
+    "url": "https://www.404media.co/flock-taught-cops-how-to-surveil-no-kings-protesters/"
+  },
+  {
+    "by": "paulpauper",
+    "descendants": 0,
+    "id": 49558010,
+    "score": 1,
+    "time": 1788474517,
+    "title": "The World in Which We Live",
+    "type": "story",
+    "url": "https://nntaleb.substack.com/p/the-world-in-which-we-live"
+  },
+  {
+    "by": "matt_d",
+    "descendants": 0,
+    "id": 49557995,
+    "score": 1,
+    "time": 1788474432,
+    "title": "Scaling AI: The Communication Wall",
+    "type": "story",
+    "url": "https://www.aaravwattal.com/blog/c2c-interconnect/"
+  },
+  {
+    "by": "cdrnsf",
+    "descendants": 0,
+    "id": 49557988,
+    "score": 2,
+    "time": 1788474406,
+    "title": "Models Don't Go Rogue",
+    "type": "story",
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/"
+  },
+  {
+    "by": "nickswalker",
+    "descendants": 0,
+    "id": 49557986,
+    "score": 1,
+    "time": 1788474404,
+    "title": "Methods for Random Gradients",
+    "type": "story",
+    "url": "https://justinjay.wang/methods-for-random-gradients/"
+  },
+  {
+    "by": "rbanffy",
+    "descendants": 0,
+    "id": 49557977,
+    "score": 1,
+    "time": 1788474347,
+    "title": "Relativistic Lightsail Propulsion Dynamics",
+    "type": "story",
+    "url": "https://arxiv.org/abs/2606.04052"
+  },
+  {
+    "by": "matt_d",
+    "descendants": 0,
+    "id": 49557976,
+    "score": 1,
+    "time": 1788474347,
+    "title": "Linked Lists in the Linux Kernel",
+    "type": "story",
+    "url": "https://0xax.dev/books/linux-inside/linux-datastructures-1"
+  },
+  {
+    "by": "cdrnsf",
+    "descendants": 0,
+    "id": 49557974,
+    "score": 1,
+    "time": 1788474339,
+    "title": "How workers feel about AI in 2026",
+    "type": "story",
+    "url": "https://www.glassdoor.com/blog/how-workers-feel-about-ai-2026/"
+  },
+  {
+    "by": "syumei",
+    "descendants": 0,
+    "id": 49557967,
+    "score": 1,
+    "time": 1788474297,
+    "title": "A Stranger's Pull Request Almost Stole My Cloud Credentials",
+    "type": "story",
+    "url": "https://medium.com/@malaviyadhruv05/a-strangers-pull-request-almost-stole-my-cloud-credentials-1597e9053d0b"
+  },
+  {
+    "by": "Taskpoolai",
+    "descendants": 0,
+    "id": 49557964,
+    "kids": [
+      49557969
+    ],
+    "score": 1,
+    "time": 1788474288,
+    "title": "Nobody's model supplier is neutral infrastructure",
+    "type": "story",
+    "url": "https://taskpool.ai/blog/nvidia-hugging-face-acquisition"
+  },
+  {
+    "by": "mdp2021",
+    "descendants": 0,
+    "id": 49557961,
+    "score": 1,
+    "time": 1788474270,
+    "title": "Sanders-Casar Ban Artificial Superintelligence Act. I [Gary Marcus] Oppose It",
+    "type": "story",
+    "url": "https://garymarcus.substack.com/p/the-new-sanders-casar-ban-artificial"
+  },
+  {
+    "by": "anonymousiam",
+    "descendants": 0,
+    "id": 49557944,
+    "score": 1,
+    "time": 1788474186,
+    "title": "ChatGPT, Reddit, and Roblox Given Four Months to Meet New EU Censorship Rules",
+    "type": "story",
+    "url": "https://reclaimthenet.org/chatgpt-reddit-roblox-eu-dsa-obligations"
+  },
+  {
+    "by": "doener",
+    "descendants": 1,
+    "id": 49557940,
+    "kids": [
+      49558012
+    ],
+    "score": 1,
+    "time": 1788474176,
+    "title": "CDC is still counting 2 measles deaths RFK Jr. ordered it to delete",
+    "type": "story",
+    "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/"
+  },
+  {
+    "by": "dewanee",
+    "descendants": 1,
+    "id": 49557923,
+    "kids": [
+      49557924
+    ],
+    "score": 1,
+    "time": 1788474082,
+    "title": "Gandi uses Spamhaus against its own customers",
+    "type": "story",
+    "url": "https://docs.gandi.net/en/gandimail/faq/error_types/blocked_using_sbl_xbl_spamhaus_org.html"
+  },
+  {
+    "by": "doener",
+    "descendants": 0,
+    "id": 49557918,
+    "score": 4,
+    "time": 1788474039,
+    "title": "Tim Cook donated $1M to Trump's inauguration",
+    "type": "story",
+    "url": "https://bsky.app/profile/rbreich.bsky.social/post/3munhxxqhqm2n"
+  },
+  {
+    "by": "bbg2401",
+    "descendants": 0,
+    "id": 49557893,
+    "score": 1,
+    "time": 1788473869,
+    "title": "Superlogical Server Memory Optimizations Overview [video]",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=T5gV6anSt-4"
+  },
+  {
+    "by": "asaiacai",
+    "descendants": 0,
+    "id": 49557885,
+    "score": 1,
+    "time": 1788473770,
+    "title": "Distributed PyTorch Profiling",
+    "type": "story",
+    "url": "https://zhenyu.github.io/2026/09/02/why-a-gpu-profiling-capture-turned-into-a-distributed-systems-problem/"
+  },
+  {
+    "by": "matt_d",
+    "descendants": 0,
+    "id": 49557880,
+    "score": 1,
+    "time": 1788473705,
+    "title": "Performance Characterization of SPEC CPU 2026 on AMD EPYC 9755 \"Zen 5\" Processor",
+    "type": "story",
+    "url": "https://arxiv.org/abs/2609.01527"
+  },
+  {
+    "by": "Aboutplants",
+    "descendants": 0,
+    "id": 49557878,
+    "score": 2,
+    "time": 1788473688,
+    "title": "Google DeepMind Just Rolled Out Its Most Accurate AI Global Weather Model",
+    "type": "story",
+    "url": "https://gizmodo.com/google-deepmind-just-rolled-out-its-most-accurate-ai-global-weather-model-2000807015"
+  },
+  {
+    "by": "softwarewright",
+    "descendants": 0,
+    "id": 49557875,
+    "score": 2,
+    "text": "With RAM price inflation, I wonder if FPGAs can be used to offload inference processing without keeping weights in RAM?  The available RAM would be for activations, KV Cache, context but not static weights.  Weights could be streamed from disk.  This approach is not for tokens&#x2F;second but throughput at a lower cost.  Possibly better answers&#x2F;kHh?  I&#x27;ve started researching this, but wonder if others have considered&#x2F;tried this?",
+    "time": 1788473675,
+    "title": "Ask HN: Who is using FPGA for ML inference?",
+    "type": "story"
+  },
+  {
+    "by": "zahirbmirza",
+    "descendants": 0,
+    "id": 49557834,
+    "kids": [
+      49558022
+    ],
+    "score": 1,
+    "text": "No Apps open. Face ID is off. Why does my green &#x27;Camera on&#x27; indicator on the iPhone come on? It particularly happens when unlocking the phone. Could it be camera is turned on before the phone detects that FaceID is off? Or something more nefarious? I would really like to know if an image is being captured or analysed and by what app&#x2F;process. Note again, face Id is off and no apps open.",
+    "time": 1788473462,
+    "title": "Ask HN: iPhone Camera on indicator.",
+    "type": "story"
+  },
+  {
+    "by": "Cider9986",
+    "descendants": 0,
+    "id": 49557831,
+    "score": 1,
+    "time": 1788473428,
+    "title": "These websites Have Been Seized",
+    "type": "story",
+    "url": "https://seized.fyi/"
+  },
+  {
+    "by": "MontagFTB",
+    "descendants": 1,
+    "id": 49557813,
+    "kids": [
+      49557946
+    ],
+    "score": 2,
+    "text": "NVIDIA acquired Hugging Face for $12,930,300,000<p>The math: 0x1F917 = 1×65536 + 15×4096 + 9×256 + 1×16 + 7 = 129,303. And U+1F917 is officially named HUGGING FACE — .",
+    "time": 1788473321,
+    "title": "NVIDIA's Acquisition of HuggingFace was for $HuggingFace",
+    "type": "story"
+  },
+  {
+    "by": "cisc",
+    "descendants": 0,
+    "id": 49557807,
+    "score": 3,
+    "time": 1788473292,
+    "title": "Ukrainian Sea Drones Strike Russian Black Sea Resort Town of Sochi",
+    "type": "story",
+    "url": "https://www.twz.com/news-features/ukrainian-sea-drones-strike-russian-black-sea-resort-town-of-sochi-for-the-first-time"
+  },
+  {
+    "by": "birdculture",
+    "descendants": 0,
+    "id": 49557803,
+    "score": 1,
+    "time": 1788473257,
+    "title": "Dependent if expressions without dependent types",
+    "type": "story",
+    "url": "https://haskellforall.com/2026/09/dependent-if-expressions"
+  },
+  {
+    "by": "cisc",
+    "descendants": 0,
+    "id": 49557795,
+    "score": 2,
+    "time": 1788473216,
+    "title": "Rusty state of USS Abraham Lincoln after marathon deployment shocks observers",
+    "type": "story",
+    "url": "https://www.cnn.com/2026/09/03/asia/aircraft-carrier-abraham-lincoln-rust-intl-hnk-ml"
+  },
+  {
+    "by": "cdrnsf",
+    "descendants": 0,
+    "id": 49557788,
+    "score": 3,
+    "time": 1788473181,
+    "title": "Flock Is Cancelled–and Their Competitors Are Profiting",
+    "type": "story",
+    "url": "https://www.motherjones.com/politics/2026/09/flock-contracts-cancelled-cameras-alpr-rekor-axon-florida-texas/"
+  },
+  {
+    "by": "stwrt",
+    "descendants": 0,
+    "id": 49557784,
+    "score": 2,
+    "time": 1788473176,
+    "title": "Hosting Valkey: one MicroVM per store, durable by default",
+    "type": "story",
+    "url": "https://mojave.sh/blog/valkey-in-a-microvm"
+  },
+  {
+    "by": "pranshuchittora",
+    "descendants": 0,
+    "id": 49557780,
+    "score": 2,
+    "time": 1788473149,
+    "title": "GPT 6 is way behind Anthropic on Artificial Analysis",
+    "type": "story",
+    "url": "https://artificialanalysis.ai/models/gpt-6-astra"
+  },
+  {
+    "by": "olirex99",
+    "descendants": 0,
+    "id": 49557770,
+    "score": 1,
+    "time": 1788473078,
+    "title": "The Selfish AI Model",
+    "type": "story",
+    "url": "https://ateliti99.substack.com/p/the-selfish-ai-model"
+  },
+  {
+    "by": "nujufas",
+    "descendants": 0,
+    "id": 49557760,
+    "kids": [
+      49557761
+    ],
+    "score": 1,
+    "time": 1788473040,
+    "title": "Jsonquery_GUI – A native Rust/egui desktop tool for streaming jq queries",
+    "type": "story",
+    "url": "https://github.com/nujufas/jsonquery_gui"
+  },
+  {
+    "by": "fotta",
+    "descendants": 0,
+    "id": 49557729,
+    "score": 2,
+    "time": 1788472868,
+    "title": "AWS STS",
+    "type": "story"
+  },
+  {
+    "by": "SockThief",
+    "descendants": 0,
+    "id": 49557716,
+    "score": 2,
+    "time": 1788472793,
+    "title": "Four major AI models suffer rare overlapping downtime",
+    "type": "story",
+    "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/"
+  },
+  {
+    "by": "gmays",
+    "descendants": 0,
+    "id": 49557705,
+    "score": 5,
+    "time": 1788472703,
+    "title": "New weight loss and diabetes treatment helps burn fat while keeping muscle",
+    "type": "story",
+    "url": "https://news.berkeley.edu/2026/08/21/a-promising-new-weight-loss-and-diabetes-treatment-helps-burn-fat-while-keeping-muscle/"
+  },
+  {
+    "by": "binyu",
+    "descendants": 0,
+    "id": 49557696,
+    "score": 1,
+    "time": 1788472647,
+    "title": "Parity Problem",
+    "type": "story",
+    "url": "https://en.wikipedia.org/wiki/Parity_problem"
+  },
+  {
+    "by": "codemax98",
+    "descendants": 2,
+    "id": 49557694,
+    "kids": [
+      49557695,
+      49557710
+    ],
+    "score": 2,
+    "time": 1788472645,
+    "title": "Show HN: We replaced the pelican benchmark with a hippo",
+    "type": "story",
+    "url": "https://hippo.ryansailab.com"
+  },
+  {
+    "by": "bookofjoe",
+    "descendants": 1,
+    "id": 49557691,
+    "kids": [
+      49557692
+    ],
+    "score": 3,
+    "time": 1788472627,
+    "title": "Have we finally found dark matter?",
+    "type": "story",
+    "url": "https://www.scientificamerican.com/article/have-we-finally-found-dark-matter/"
+  },
+  {
+    "by": "1ilit",
+    "descendants": 0,
+    "id": 49557688,
+    "score": 3,
+    "text": "2 years ago I launched drawDB on here. It was my very first project that I open-sourced and it ended up going kinda viral. A month ago I launched drawDB Pro for solo devs and teams. It was actually my manager that encouraged me to go build it to help with my promotion :3<p>The project has come a long long way. It started as a simple canvas with local storage and now we have proper cloud storage, team permissions, real-time collaboration, AI assistant, versioning, MCP, etc. Now I&#x27;m trying to figure out all the stuff beyond development although most of it is outside my comfort zone for now.<p>You can try it out here: <a href=\"https:&#x2F;&#x2F;www.drawdb.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.drawdb.app&#x2F;</a>. You don&#x27;t need an account or a card.<p>I&#x27;d love to hear your feedback. How would you (or your agents) use something like this in your workflow? Or what would you like to see?",
+    "time": 1788472611,
+    "title": "Show HN: DrawDB Pro – design database schemas for your team and agents",
+    "type": "story",
+    "url": "https://www.drawdb.app/"
+  },
+  {
+    "by": "niwrad",
+    "descendants": 0,
+    "id": 49557687,
+    "score": 2,
+    "text": "A part of me feels like I may be loosing my ability to think.<p>Is there a test I can periodically do to see how my cognitive abilities are being affected by my AI usage all day?",
+    "time": 1788472609,
+    "title": "Ask HN: Is there a test for measuring cognitive affects from LLM usage?",
+    "type": "story"
+  },
+  {
+    "by": "joebuckwilliams",
+    "descendants": 0,
+    "id": 49557675,
+    "score": 1,
+    "time": 1788472539,
+    "title": "CERN moves accelerator control computers to Debian",
+    "type": "story",
+    "url": "https://www.theregister.com/os-platforms/2026/09/03/cern-moves-thousands-of-accelerator-control-computers-to-debian/5294312"
+  },
+  {
+    "by": "matrix8967",
+    "descendants": 1,
+    "id": 49557666,
+    "kids": [
+      49557667
+    ],
+    "score": 4,
+    "time": 1788472475,
+    "title": "Mullvad migrating to Q9 for encrypted DNS",
+    "type": "story",
+    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead"
+  },
+  {
+    "by": "hn_acker",
+    "descendants": 0,
+    "id": 49557653,
+    "score": 2,
+    "time": 1788472417,
+    "title": "Court Rules Against Citizen Journalists in DMCA Takedown Case–EFF Will Appeal",
+    "type": "story",
+    "url": "https://www.eff.org/deeplinks/2026/09/court-rules-against-citizen-journalists-dmca-takedown-case-eff-will-appeal"
+  },
+  {
+    "by": "sedds89",
+    "descendants": 0,
+    "id": 49557621,
+    "kids": [
+      49557622
+    ],
+    "score": 1,
+    "time": 1788472282,
+    "title": "I built an AI development environment that runs and builds software on Android",
+    "type": "story",
+    "url": "https://github.com/sedds89/StitchLabtools"
+  }
+]
